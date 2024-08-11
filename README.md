@@ -20,7 +20,7 @@ Here is what the site should look like:
 
 ## Usage
 
-Visit the link here to make a post! (Deployed with Render): [Website](https://www.awesomescreenshot.com/video/30178438?key=e71270ae1a5ebbfea2dd71af132c6e74)
+Visit the link here to make a post! (Deployed with Render): [Website](https://tech-blog-w4dw.onrender.com)
 
 ## Licenses
 
