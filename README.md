@@ -14,10 +14,15 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 ## Installation
 Install dependencies with 'npm install', run 'npm start, create a blog post!'
 
+Here is what the site should look like:
+
+![Website Image](./assets/Techblog.PNG)
+
 ## Usage
+
 Visit the link here to make a post! (Deployed with Render): [Website](https://www.awesomescreenshot.com/video/30178438?key=e71270ae1a5ebbfea2dd71af132c6e74)
 
-## LicenseS
+## Licenses
 
 ## Contributing
 For the repo, create a new branch for your changes, make modifications and submit pull request that folloes the projects coding standards
